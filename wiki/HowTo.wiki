@@ -1,0 +1,11 @@
+#summary How to use MouseWheelTrap
+
+= Introduction =
+
+Not much to say other than
+{{{
+import com.spikything.utils.MouseWheelTrap;
+MouseWheelTrap.setup(stage);
+}}}
+
+The JavaScript code is injected at runtime, so no external JavaScript is currently required.
