@@ -8,4 +8,4 @@ import com.spikything.utils.MouseWheelTrap;
 MouseWheelTrap.setup(stage);
 }}}
 
-The JavaScript code is injected at runtime, so no external JavaScript is currently required.
+The JavaScript is injected at runtime, so no external JavaScript is currently required.
